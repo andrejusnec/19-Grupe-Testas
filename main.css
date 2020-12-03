@@ -1,11 +1,12 @@
 body {
-
+    display: grid;
+    grid-template-columns: 1fr 300px 1fr;
 }
     .tevas {
         background-color: red;
     }
         .head {
-
+            
         }
         .text {
 
